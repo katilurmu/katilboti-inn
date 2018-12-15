@@ -17,7 +17,7 @@ exports.run = (client, message) => {
   .addField("**❯ Sürüm**", " BETA v0.2.5 ", )
   .addField("**❯ Yapıldığı Tarih**", " 2 Aralık 2018 ", )
 	.addField("**❯ Bot Davet**", " [Davet Et](https://discordapp.com/oauth2/authorize?client_id=518850460455534613&scope=bot&permissions=8)", )
-  .addField("**❯ Destek sunucusu**", " [Sunucumuza Katıl](https://discord.gg/fgwhDNE) ", )
+  .addField("**❯ Destek sunucusu**", " [Sunucumuza Katıl](https://discord.gg/XFxE6pG) ", )
 	.setThumbnail("https://forum.gamer.com.tr/attachments/bilgi-png.55209/");
     return message.author.sendEmbed(pingozel)
 };
